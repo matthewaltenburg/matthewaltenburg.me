@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Matthew Altenburg <br/> This is a repo of my personal website matthewaltenburg.me </h1>
-<br/>
+<h2 align="center">Hi 👋, I'm Matthew Altenburg </h2>
+<h3 align="center">This is a repo of my personal website matthewaltenburg.me </h3>
 
 <!-- ABOUT THE PROJECT -->
-## About This Project
+### About This Project
 
  The project is built 🏗️ with **Gatsby** and hosted 🌐 on **github pages** wiht a domain on **AWS route66**. 
  
  To find out more about me and some of my projects go to my websites or feel free reach out to me is by email 📫.  
 
 <!-- CONTRIBUTING -->
-## Contributing
+### Contributing
 
 I don't expect anyone to contribute to this project, but if you find any mistakes 🤦 or want to suggest improving the website, please fork the repo and create a pull request. **Any help would be significantly appreciated.**
 
