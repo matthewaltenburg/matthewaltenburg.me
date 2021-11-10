@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About This Project
 
- The project is built 🏗️ with **Gatsby** and hosted 🌐 on **github pages** wiht a domain on **AWS route66**. 
+ The project is built 🏗️ with **Gatsby** and hosted 🌐 on **github pages** with **github actions** and the domain is on **AWS route66**. 
  
  To find out more about me and some of my projects go to my websites or feel free reach out to me is by email 📫.  
 
