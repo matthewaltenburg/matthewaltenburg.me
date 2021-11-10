@@ -16,5 +16,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: enriikke/gatsby-gh-pages-action@v2.2.0
         with:
-          access-token: PERSONALWEB
+          access-token: ${{ secrets.PERSONALWEB }}
           deploy-branch: main
