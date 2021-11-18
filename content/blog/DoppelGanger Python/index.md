@@ -30,10 +30,10 @@ Below is an overview video and diagram of my thought process with all code avail
 </p>
 
 ## Overview diagram of the project
-<!-- /home/matthew/matthewaltenburg.me/content/blog/DoppelGanger Python/images/doppelganger.svg -->
+
 
 <figure style="text-align: center;">
-  <img src="./images/doppelganger2.png" alt="Image input and what is expected as output diagram">
+  <img src="./images/output.jpg" alt="Image input and what is expected as output diagram">
   <figcaption>Overview</figcaption>
 </figure>
 
