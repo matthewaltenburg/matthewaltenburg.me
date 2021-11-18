@@ -15,14 +15,14 @@ In order to keep the project simple, a smaller dataset was created in the celeb_
 
 Below is an overview video and diagram of my thought process with all code available in my GitHub repository. 
 
-## <a href="https://github.com/matthewaltenburg/virtual_makeup_opencv.git" target="_blank">Github code repository</a>
+## <a href="https://github.com/matthewaltenburg/DoppelGanger-Find-your-Celebrity-Look-Alike.git" target="_blank">Github code repository</a>
 
 <p align="center">
 <iframe
     style="align:center"
     width="640"
     height="480"
-    src="https://www.youtube.com/embed/uIhbzM1sGLo"
+    src="https://www.youtube.com/embed/pHm7vTRM4NU"
     frameborder="0"
     allowfullscreen
 >
