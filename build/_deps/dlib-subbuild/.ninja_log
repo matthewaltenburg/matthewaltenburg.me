@@ -1,0 +1,18 @@
+# ninja log v5
+0	57	1638848958630747350	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-mkdir	ce653c6c49f43f8a
+57	29044	1638848987618504892	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-download	b1dcaafd12432b8f
+29044	29057	1638848987634504763	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-patch	ac72d5c71dbe6b14
+29044	30732	0	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-update	fef1172490284fb6
+30732	30753	1638848989326491153	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-configure	140f963fe9fcb8e2
+30753	30767	1638848989342491025	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-build	e875a67ca72225d2
+30767	30782	1638848989358490898	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-install	2ada9a16886a5cf2
+30782	30795	1638848989370490801	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-test	95a6c7a5ea73ab61
+30795	30820	1638848989394490609	CMakeFiles/dlib-populate-complete	fc338bfb70d6a347
+30795	30820	1638848989394490609	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-done	fc338bfb70d6a347
+0	1551	0	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-update	fef1172490284fb6
+1551	1581	1638853642079102816	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-configure	140f963fe9fcb8e2
+1581	1605	1638853642103102302	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-build	e875a67ca72225d2
+1605	1628	1638853642127101788	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-install	2ada9a16886a5cf2
+1628	1673	1638853642171100844	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-test	95a6c7a5ea73ab61
+1673	1724	1638853642223099729	CMakeFiles/dlib-populate-complete	fc338bfb70d6a347
+1673	1724	1638853642223099729	dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-done	fc338bfb70d6a347

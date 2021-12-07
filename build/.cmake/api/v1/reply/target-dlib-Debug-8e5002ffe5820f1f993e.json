@@ -1,0 +1,672 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "_deps/dlib-build/dlib/libdlib.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"cuda_add_library",
+			"target_compile_options",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake-3.16/Modules/FindCUDA.cmake",
+			"/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 833,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1825,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 848,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 881,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 781,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g  "
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DDLIB_JPEG_SUPPORT"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DDLIB_USE_BLAS"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DDLIB_USE_LAPACK"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DDLIB_USE_CUDA"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DDLIB_PNG_SUPPORT"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wreturn-type"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/usr/local/cuda-11.4/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				62,
+				63,
+				65,
+				66,
+				67
+			]
+		}
+	],
+	"id" : "dlib::@32b7fedbf451aaff2890",
+	"name" : "dlib",
+	"nameOnDisk" : "libdlib.a",
+	"paths" : 
+	{
+		"build" : "_deps/dlib-build/dlib",
+		"source" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Object Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-build/dlib/CMakeFiles/dlib.dir/cuda/dlib_generated_cuda_dlib.cu.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-build/dlib/CMakeFiles/dlib.dir/cuda/dlib_generated_cusolver_dlibapi.cu.o",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/base64/base64_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/bigint/bigint_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/bigint/bigint_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/bit_stream/bit_stream_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/md5/md5_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/tokenizer/tokenizer_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/unicode/unicode.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/test_for_odr_violations.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/sockets/sockets_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/bsp/bsp.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/dir_nav/dir_nav_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/dir_nav/dir_nav_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/dir_nav/dir_nav_extensions.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/fonts.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/linker/linker_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/logger/extra_logger_headers.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/logger/logger_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/logger/logger_config_file.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/misc_api/misc_api_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/misc_api/misc_api_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/sockets/sockets_extensions.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/sockets/sockets_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/sockstreambuf/sockstreambuf.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/server/server_kernel.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/server/server_iostream.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/server/server_http.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/multithreaded_object_extension.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/threaded_object_extension.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/threads_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/threads_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/threads_kernel_shared.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/thread_pool_extension.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/threads/async.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/timer/timer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/stack_trace.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cpu_dlib.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/tensor_tools.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/data_io/image_dataset_metadata.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/data_io/mnist.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/data_io/cifar.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/global_optimization/global_function_search.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/filtering/kalman_filter.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/svm/auto.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/widgets.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/drawable.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/canvas_drawing.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/style.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_widgets/base_widgets.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_core/gui_core_kernel_1.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/gui_core/gui_core_kernel_2.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/image_loader/png_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/image_saver/save_png.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/image_loader/jpeg_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/image_saver/save_jpeg.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cuda_dlib.cu",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cudnn_dlibapi.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cublas_dlibapi.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cusolver_dlibapi.cu",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/curand_dlibapi.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/cuda_data_ptr.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-src/dlib/cuda/gpu_data.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

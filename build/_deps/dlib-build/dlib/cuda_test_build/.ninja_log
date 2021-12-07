@@ -1,0 +1,3 @@
+# ninja log v5
+0	5858	1638848997994422350	CMakeFiles/cuda_test.dir/cuda_test_generated_cuda_test.cu.o	c35b18498b37eacf
+5858	5868	1638848998010422224	libcuda_test.a	4ee2925467b2bcd1

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/CMakeFiles/dlib-populate"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/CMakeFiles/dlib-populate.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/CMakeFiles/dlib-populate-complete.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-install.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-download.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-update.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-patch.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-configure.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-build.rule"
+		},
+		{
+			"file" : "/home/matthew/matthewaltenburg.me/build/_deps/dlib-subbuild/dlib-populate-prefix/src/dlib-populate-stamp/dlib-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dlib-populate"
+		],
+		"name" : "dlib-populate"
+	}
+}
