@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/bitcoin/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/Bitcoin/"},"frontmatter":{"title":"Bitcoin And Trust","date":"May 17, 2022"}}}]}},"pageContext":{"tag":"bitcoin"}},
+    "staticQueryHashes": ["2478211480"]}

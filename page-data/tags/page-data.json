@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"AWS","totalCount":1},{"fieldValue":"Dlib","totalCount":4},{"fieldValue":"Gatsby","totalCount":1},{"fieldValue":"Github Actions","totalCount":1},{"fieldValue":"GraphQl","totalCount":1},{"fieldValue":"JavaScript","totalCount":1},{"fieldValue":"OpenCV","totalCount":5},{"fieldValue":"Python","totalCount":1},{"fieldValue":"React","totalCount":1},{"fieldValue":"S3","totalCount":1},{"fieldValue":"bitcoin","totalCount":1},{"fieldValue":"c++","totalCount":4},{"fieldValue":"python","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["2478211480"]}

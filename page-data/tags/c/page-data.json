@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/c/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":4,"edges":[{"node":{"fields":{"slug":"/Open An Image/"},"frontmatter":{"title":"OpenCV how to open a image with Python and C++","date":"December 06, 2021"}}},{"node":{"fields":{"slug":"/DoppelGanger C++/"},"frontmatter":{"title":"Doppelganger C++","date":"November 29, 2021"}}},{"node":{"fields":{"slug":"/DoppelGanger Python/"},"frontmatter":{"title":"Doppelganger Python","date":"November 17, 2021"}}},{"node":{"fields":{"slug":"/Virtual Makeup C++/"},"frontmatter":{"title":"Virtual Makeup C++","date":"November 08, 2021"}}}]}},"pageContext":{"tag":"c++"}},
+    "staticQueryHashes": ["2478211480"]}

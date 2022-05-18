@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/java-script/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/Portfolio Website/"},"frontmatter":{"title":"Building My Portfolio Website","date":"August 16, 2021"}}}]}},"pageContext":{"tag":"JavaScript"}},
+    "staticQueryHashes": ["2478211480"]}

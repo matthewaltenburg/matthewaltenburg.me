@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/python/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/Virtual Makeup Python/"},"frontmatter":{"title":"Virtual Makeup Python","date":"September 02, 2021"}}}]}},"pageContext":{"tag":"Python"}},
+    "staticQueryHashes": ["2478211480"]}
