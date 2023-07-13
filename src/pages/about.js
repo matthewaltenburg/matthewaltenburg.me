@@ -5,15 +5,10 @@ const about = () => {
   return (
     <Layout>
       <div className="content-box clearfix">
-        <div className="about-page">
+        <div className="about-page" style={{ wordWrap: 'break-word' }}>
           <h1>Qualification</h1>
           <p>
-            At my core, I am a problem solver, always looking for new
-            challenges. I'm not afraid to confront and embrace uncertainties,
-            challenges, feedback and failure. I put a lot of effort into
-            learning. I wish I could say my character, intelligence, and
-            personality were inherent, but they are the result of hard work,
-            luck, and the people who have supported me along the way.
+            At the heart of who I am lies an unwavering drive to solve problems, perpetually seeking fresh challenges. The complexities of uncertainties, obstacles, constructive criticism, and even failure don't intimidate me - instead, I welcome them. My passion for learning fuels me, propelling me to put in considerable effort. I'd love to say that my character, intellect, and persona are innate gifts, but they are the fruits of relentless hard work, a touch of luck, and the indispensable support I've received from those who have journeyed with me.
           </p>
           <h2>Certificates</h2>
           <p>
